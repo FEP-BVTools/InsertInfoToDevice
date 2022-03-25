@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertInfoToDevice", "InsertInfoToDevice.csproj", "{9F4881A7-E45F-4053-889A-29916F69278F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4881A7-E45F-4053-889A-29916F69278F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4881A7-E45F-4053-889A-29916F69278F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4881A7-E45F-4053-889A-29916F69278F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4881A7-E45F-4053-889A-29916F69278F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F523B898-DADF-4CE4-B1CA-22D13D95D77D}
+	EndGlobalSection
+EndGlobal
